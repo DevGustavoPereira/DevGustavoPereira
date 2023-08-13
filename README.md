@@ -1,5 +1,3 @@
-Graduando em Engenharia de Software
-
 ## Olá, me Chamo Luiz Gustavo Pereira, sou graduando em Engenharia de Software e atualmente estou desenvolvendo projetos em Front-End.
 
 <div style="display: inline_block"><br>
