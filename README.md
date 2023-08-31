@@ -1,4 +1,4 @@
-## Olá, me Chamo Luiz Gustavo Pereira, sou graduando em Engenharia de Software e atualmente estou desenvolvendo projetos em Front-End.
+## Olá, me Chamo Luiz Gustavo Pereira, sou graduando em Engenharia de Software e atualmente estou desenvolvendo projetos de estudos para Back-End.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
